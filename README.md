@@ -12,6 +12,7 @@ I have just started my front-end developer career and I feel really excited to c
 ![REACT](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Boostrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 <!--
 **LoreMatey/LoreMatey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
