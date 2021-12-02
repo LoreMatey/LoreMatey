@@ -1,4 +1,4 @@
-![Lore-Github-readme-profile](https://user-images.githubusercontent.com/75860941/144339722-d2a33e6f-acea-439a-816c-495e84ff2e1f.jpg)
+![Lore-Github-readme-profile copia](https://user-images.githubusercontent.com/75860941/144341674-d3084f15-3f24-4bd9-bf07-1511c9bbb05a.jpg)
 
 <!--
 **LoreMatey/LoreMatey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
