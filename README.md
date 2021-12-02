@@ -2,7 +2,7 @@
 
 # Hi, I'm Lorena! 😃👋🏻
 
-I have just started my front-end developer career and I feel really excited to continue learning to code with good practices. As a Fine Arts graduate, I am passionate about nice-looking user interfaces. I love React.js, but I am open to learn other frameworks.
+I have just started my front-end developer career and I feel really excited to continue learning to code with good practices. As a Fine Arts graduate, I am passionate about nice-looking user interfaces. I love React.js, but I am open to learn other frameworks and languages.
 <!--
 **LoreMatey/LoreMatey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
