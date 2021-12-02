@@ -1,5 +1,6 @@
 ![Lore-Github-readme-profile-3](https://user-images.githubusercontent.com/75860941/144342018-d5bca9ac-cdd9-4c85-9d20-b1d361731d32.jpg)
-
+Hi, I'm Lorena!
+I have a degree in Fine Arts and I have just started my front-end developer career.
 <!--
 **LoreMatey/LoreMatey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
