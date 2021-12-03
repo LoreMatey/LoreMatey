@@ -10,7 +10,7 @@ You can visit my Linkedin profile to learn more about me:
 
 <a href="https://www.linkedin.com/in/lorena-matey-lopez/"> ![Linkedin](https://img.shields.io/badge/-Lorena_Matey_López-0A66C2?style=flat&logo=linkedin&logoColor=white)</a>
 
-# Technologies
+## Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)
