@@ -4,7 +4,7 @@
 
 I have just started my front-end developer career and I feel really excited to continue learning to code with good practices. As a Fine Arts graduate, I am passionate about nice-looking user interfaces. I love React.js, but I am open to learn other frameworks and languages.
 
-## Skate-shop (personal project)
+## Skate-shop (personal project) 🛹
 
 You can visit this link to see my first personal project https://sfake-shop.netlify.app/
 
