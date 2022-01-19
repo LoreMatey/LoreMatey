@@ -9,6 +9,7 @@ I have just started my front-end developer career and I feel really excited to c
 You can visit this link to see my first personal project https://sfake-shop.netlify.app/
 
 This **React SPA** consists of a fake skateboarding shop with different sections (home, skateboards, sneakers, contact, login). It is **responsive** and it has been designed and developed following **mobile-first** philosophy. 
+The **product data is hosted on a server** as a backend, in JSON format, which allowed me to create a fake **API.** This service is called <a href="https://my-json-server.typicode.com/">My JSON Server</a>.
 
 <img height="300" src="https://user-images.githubusercontent.com/75860941/150134040-1f612de3-e150-4045-886e-345f225bf1e0.gif" /> <img height="300" src="https://user-images.githubusercontent.com/75860941/150137025-043ce9c7-1055-4668-a9d0-d052d4ac77ed.gif" />
 
