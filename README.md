@@ -10,7 +10,7 @@ You can visit this link to see my deployed personal project https://sfake-shop.n
 
 It has been created with React, it is responsive and it follows mobile-first design philosophy. 
 
-<img height="250" src="https://user-images.githubusercontent.com/75860941/150134040-1f612de3-e150-4045-886e-345f225bf1e0.gif" /> <img height="250" src="https://user-images.githubusercontent.com/75860941/150133840-0f2a10f7-8199-4644-a242-5826cbce62a5.gif" />
+<img height="300" src="https://user-images.githubusercontent.com/75860941/150134040-1f612de3-e150-4045-886e-345f225bf1e0.gif" /> <img height="300" src="https://user-images.githubusercontent.com/75860941/150133840-0f2a10f7-8199-4644-a242-5826cbce62a5.gif" />
 
 ## More about me
 
