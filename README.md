@@ -13,6 +13,8 @@ You can visit this link to see my first personal project https://sfake-shop.netl
 - The **product data is hosted on a server** as a backend, in JSON format, which allowed me to create a fake **API.** This service is called <a href="https://my-json-server.typicode.com/">My JSON Server</a>.
 - React **useEffect and useState Hooks** are used in this project, for AJAX requests to my API and to track the state in certain components.
 
+*This project is not finished; I would like to continue improving it :)*
+
 <img height="300" src="https://user-images.githubusercontent.com/75860941/150134040-1f612de3-e150-4045-886e-345f225bf1e0.gif" /> <img height="300" src="https://user-images.githubusercontent.com/75860941/150137025-043ce9c7-1055-4668-a9d0-d052d4ac77ed.gif" />
 
 ## More about me
