@@ -2,20 +2,10 @@
 
 # Hi, I'm Lorena! 👋🏻
 
-I have just started my front-end developer career and I feel really excited to continue learning to code with good practices. As a Fine Arts graduate, I am passionate about nice-looking user interfaces. I love React.js, but I am open to learn other frameworks and languages.
+As an emerging Frontend developer, I've had the privilege of contributing to diverse projects with DDD-based architecture, with a React client (and occasionally Vue) with TypeScript and a BFF layer exposing a GraphQL API. I have acquired knowledge in testing with Jest and Playwright and notions of CI/CD (Docker, Jenkins).
 
-## Skate-shop (personal project) 🛹
+I am driven by a passion for continuous improvement, aiming to end each day as a more proficient professional than I started. My medium to long-term goal is to deepen and broaden my expertise in the mentioned tech stack while mastering best coding practices.
 
-You can visit this link to see my first personal project https://sfake-shop.netlify.app/
-
-- This **React SPA** consists of a fake skateboarding shop with different sections (home, skateboards, sneakers, contact, login). 
-- It is **responsive** and it has been designed and developed following **mobile-first** philosophy. 
-- The **product data is hosted on a server** as a backend, in JSON format, which allowed me to create a fake **API.** This service is called <a href="https://my-json-server.typicode.com/">My JSON Server</a>.
-- React **useEffect and useState Hooks** are used in this project, for AJAX requests to my API and to track the state in certain components.
-
-*This project is not finished; I would like to continue improving it :)*
-
-<img height="300" src="https://user-images.githubusercontent.com/75860941/150134040-1f612de3-e150-4045-886e-345f225bf1e0.gif" /> <img height="300" src="https://user-images.githubusercontent.com/75860941/150137025-043ce9c7-1055-4668-a9d0-d052d4ac77ed.gif" />
 
 ## More about me
 
