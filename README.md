@@ -2,7 +2,7 @@
 
 # Hi, I'm Lorena! 👋🏻
 
-As an emerging Frontend developer, I've had the privilege of contributing to diverse projects with DDD-based architecture, with a React client (and occasionally Vue) with TypeScript and a BFF layer exposing a GraphQL API. I have acquired knowledge in testing with Jest and Playwright and notions of CI/CD (Docker, Jenkins).
+During my nearly 3 years as a Frontend developer, I've had the privilege of contributing to diverse projects with DDD-based architecture, with a React client (and occasionally Vue) with TypeScript and a BFF layer exposing a GraphQL API. I have acquired knowledge in testing with Jest and Playwright and notions of CI/CD (Docker, Jenkins).
 
 I am driven by a passion for continuous improvement, aiming to end each day as a more proficient professional than I started. My medium to long-term goal is to deepen and broaden my expertise in the mentioned tech stack while mastering best coding practices.
 
